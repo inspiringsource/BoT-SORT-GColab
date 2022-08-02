@@ -1,4 +1,6 @@
 # Google Colab demo
+Using Google Colab with GPU enabled. Feel free to follow along the notebooks. 
+This is a straightforward way to run [BoT-SORT](https://paperswithcode.com/paper/bot-sort-robust-associations-multi-pedestrian).
 
 ## Demo Links
 | demo w/ MOT17 | demo w/ MOT20 | Other |
